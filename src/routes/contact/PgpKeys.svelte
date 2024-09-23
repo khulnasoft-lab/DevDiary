@@ -19,8 +19,8 @@
     },
     {
       label: 'Email',
-      value: 'alicia at omg dot lol',
-      link: 'mailto:alicia@omg.lol',
+      value: 'khulnasoft at omg dot lol',
+      link: 'mailto:khulnasoft@omg.lol',
     },
     {
       label: 'Matrix',
@@ -29,8 +29,8 @@
     },
     {
       label: 'XMPP',
-      value: 'alicia@xmpp.is',
-      link: 'xmpp:alicia@xmpp.is?join',
+      value: 'khulnasoft@xmpp.is',
+      link: 'xmpp:khulnasoft@xmpp.is?join',
     },
     { label: 'Signal', value: 'trusted contacts only', link: '' },
   ];

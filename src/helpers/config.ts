@@ -410,7 +410,7 @@ const config: SiteConfig = {
   ],
   contact: {
     name: 'Dev Diary',
-    email: 'alicia@omg.lol',
+    email: 'khulnasoft@omg.lol',
     website: 'https://khulnasoft.com',
     socials: {
       Twitter: 'Lissy_Sykes',
@@ -421,12 +421,12 @@ const config: SiteConfig = {
       Instagram: 'liss.sykes',
       YouTube: 'KhulnaSoft',
       Reddit: 'khulnasoft-lab',
-      StackOverflow: '979052/alicia',
+      StackOverflow: '979052/khulnasoft',
       KeyBase: 'KhulnaSoft',
       Facebook: 'Liss.Sykes',
-      PeerList: 'alicia',
+      PeerList: 'khulnasoft',
       CodersRank: 'khulnasoft-lab',
-      'OMG.lol': 'alicia',
+      'OMG.lol': 'khulnasoft',
     },
     socialButtonLimit: 6,
     mailerConfig: {
@@ -478,7 +478,7 @@ const config: SiteConfig = {
   about: {
     intro: 'Just your average dev...',
     bio: [
-      "I'm Alicia, a London-based software engineer.",
+      "I'm KhulnaSoft, a London-based software engineer.",
 
       `I have a particular interest in privacy-respecting software, as well as security.
       I've carried out a few audits, and authored the initial versions of
@@ -501,7 +501,7 @@ const config: SiteConfig = {
 
       `Away from the keyboard, I like sports, hanging out with friends, and going to Church.`,
     ],
-    picture: 'https://i.ibb.co/svxHFMD/alicia-sykes-3.jpg',
+    picture: 'https://i.ibb.co/svxHFMD/khulnasoft-sykes-3.jpg',
   },
   techStack: {
     backend: [
@@ -533,7 +533,7 @@ const config: SiteConfig = {
     frontend: [
       {
         language: 'Vue',
-        projects: ['dashy', 'all-the-countries', 'alicia-sykes-website', 'tfl-lift-availability-dash'],
+        projects: ['dashy', 'all-the-countries', 'khulnasoft-sykes-website', 'tfl-lift-availability-dash'],
       },
       {
         language: 'Svelte',

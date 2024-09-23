@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Alicia's Notes 🚀</title>
-    <author>Alicia's Notes 🚀</author>
+    <title>KhulnaSoft's Notes 🚀</title>
+    <author>KhulnaSoft's Notes 🚀</author>
     <description>Thankful to be here 🌍</description>
     <link>http://khulnasoft.com</link>
     <language>en</language>
     <item>
       <title>SvelteKit 1.0 - Building a Blog that fetches from RSS 🦄</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Mon, 20 Feb 2023 22:10:08 +0000</pubDate>
       <link>https://notes.khulnasoft.com/42764/sveltekit-1-0-building-a-blog-that-fetches-from-rss</link>
       <guid>https://notes.khulnasoft.com/42764/sveltekit-1-0-building-a-blog-that-fetches-from-rss</guid>
@@ -501,7 +501,7 @@ Blog
     </item>
     <item>
       <title>20 Amazing Collections for Self-Taught Developers 🎓</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Fri, 27 Jan 2023 17:45:35 +0000</pubDate>
       <link>https://notes.khulnasoft.com/42310/20-amazing-collections-for-self-taught-developers</link>
       <guid>https://notes.khulnasoft.com/42310/20-amazing-collections-for-self-taught-developers</guid>
@@ -564,7 +564,7 @@ Blog
     </item>
     <item>
       <title>CLI tools you can't live without 🔧</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Thu, 19 Jan 2023 17:42:01 +0000</pubDate>
       <link>https://notes.khulnasoft.com/41983/cli-tools-you-can-t-live-without</link>
       <guid>https://notes.khulnasoft.com/41983/cli-tools-you-can-t-live-without</guid>
@@ -1419,7 +1419,7 @@ sudo apt install just
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;code class="prettyprint"&gt;transfer&lt;/code&gt; makes uploading and sharing files really easy, directly from the command line. It's free, supports encryption, gives you a unique URL, and can also be self-hosted.&lt;br&gt;
-I've written a Bash helper function to make usage a bit easier, you can &lt;a href="https://github.com/khulnasoft-lab/dotfiles/blob/master/utils/transfer.sh" rel="noopener nofollow" target="_blank"&gt;find it here&lt;/a&gt; or try it out by running &lt;code class="prettyprint"&gt;bash &amp;lt;(curl -L -s https://alicia.url.lol/transfer)&lt;/code&gt;&lt;/p&gt;
+I've written a Bash helper function to make usage a bit easier, you can &lt;a href="https://github.com/khulnasoft-lab/dotfiles/blob/master/utils/transfer.sh" rel="noopener nofollow" target="_blank"&gt;find it here&lt;/a&gt; or try it out by running &lt;code class="prettyprint"&gt;bash &amp;lt;(curl -L -s https://khulnasoft.url.lol/transfer)&lt;/code&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src="https://i.ibb.co/cCqDb1k/transfer-sh.png" alt="transfer-sh-example-usage"&gt;&lt;/p&gt;
@@ -1595,7 +1595,7 @@ I've written a Bash helper function to make usage a bit easier, you can &lt;a hr
     </item>
     <item>
       <title>20 Git Commands you (probably) didn't know 🧙‍♂️</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sat, 17 Dec 2022 20:46:47 +0000</pubDate>
       <link>https://notes.khulnasoft.com/41171/20-git-commands-you-probably-didn-t-know</link>
       <guid>https://notes.khulnasoft.com/41171/20-git-commands-you-probably-didn-t-know</guid>
@@ -1969,7 +1969,7 @@ You'll then be able to checkout a specific tag, with &lt;code class="prettyprint
     </item>
     <item>
       <title>Super Useful CSS Resources 🌈</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sat, 03 Dec 2022 17:25:01 +0000</pubDate>
       <link>https://notes.khulnasoft.com/40638/super-useful-css-resources</link>
       <guid>https://notes.khulnasoft.com/40638/super-useful-css-resources</guid>
@@ -2617,7 +2617,7 @@ See also, &lt;a href="https://colors.lol/" rel="noopener nofollow" target="_blan
     </item>
     <item>
       <title>Generate Pretty Code / App Screenshots 📸</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sat, 26 Nov 2022 16:13:49 +0000</pubDate>
       <link>https://notes.khulnasoft.com/40473/generate-pretty-code-app-screenshots</link>
       <guid>https://notes.khulnasoft.com/40473/generate-pretty-code-app-screenshots</guid>
@@ -2873,7 +2873,7 @@ Although you only get 100 scr/ month on the free plan, there's an option to set 
     </item>
     <item>
       <title>50+ Awesome Dev Tool Tips 🔥</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sun, 13 Nov 2022 13:47:37 +0000</pubDate>
       <link>https://notes.khulnasoft.com/40065/50-awesome-dev-tool-tips</link>
       <guid>https://notes.khulnasoft.com/40065/50-awesome-dev-tool-tips</guid>
@@ -3493,7 +3493,7 @@ float: right;
     </item>
     <item>
       <title>Fun with console.log()  💿</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sun, 11 Sep 2022 20:00:15 +0000</pubDate>
       <link>https://notes.khulnasoft.com/38041/fun-with-console-log</link>
       <guid>https://notes.khulnasoft.com/38041/fun-with-console-log</guid>
@@ -3709,8 +3709,8 @@ Counters will always start from 1. You can reset a counter at anytime with &lt;a
 &lt;/ul&gt;
 
 &lt;p&gt;For example&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;Hello %s, welcome to the year %d!&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;Alicia&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;new&lt;/span&gt; &lt;span class="nb"&gt;Date&lt;/span&gt;&lt;span class="p"&gt;().&lt;/span&gt;&lt;span class="nx"&gt;getFullYear&lt;/span&gt;&lt;span class="p"&gt;());&lt;/span&gt;
-&lt;span class="c1"&gt;// Hello Alicia, welcome to the year 2022!&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;Hello %s, welcome to the year %d!&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;KhulnaSoft&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;new&lt;/span&gt; &lt;span class="nb"&gt;Date&lt;/span&gt;&lt;span class="p"&gt;().&lt;/span&gt;&lt;span class="nx"&gt;getFullYear&lt;/span&gt;&lt;span class="p"&gt;());&lt;/span&gt;
+&lt;span class="c1"&gt;// Hello KhulnaSoft, welcome to the year 2022!&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Of course, you could also use &lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals" rel="noopener nofollow" target="_blank"&gt;template literals&lt;/a&gt; to achieve the same thing, which might be easier to read for shorter strings.&lt;/p&gt;
 
@@ -3752,7 +3752,7 @@ ul li { margin-bottom: 0 !important; font-size: 1rem; }
     </item>
     <item>
       <title>GitHub Markdown Tricks 🐙</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Fri, 01 Jul 2022 14:49:16 +0000</pubDate>
       <link>https://notes.khulnasoft.com/36402/github-markdown-tricks</link>
       <guid>https://notes.khulnasoft.com/36402/github-markdown-tricks</guid>
@@ -4029,7 +4029,7 @@ ul li strong, ul li code { margin-right: 1rem; }
     </item>
     <item>
       <title>Comparison of Private / Secure Emai Providers 📬</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sun, 22 May 2022 14:18:48 +0000</pubDate>
       <link>https://notes.khulnasoft.com/35375/comparison-of-private-secure-emai-providers</link>
       <guid>https://notes.khulnasoft.com/35375/comparison-of-private-secure-emai-providers</guid>
@@ -4410,7 +4410,7 @@ ul li strong, ul li code { margin-right: 1rem; }
     </item>
     <item>
       <title>One-Line Web Server 🖥️</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Thu, 10 Feb 2022 13:54:56 +0000</pubDate>
       <link>https://notes.khulnasoft.com/32456/one-line-web-server</link>
       <guid>https://notes.khulnasoft.com/32456/one-line-web-server</guid>
@@ -4466,7 +4466,7 @@ see: &lt;a href="https://notes.khulnasoft.com/p/RUi22QSyWe"&gt;Using Ngrok to ex
     </item>
     <item>
       <title>NPM Dependency Security Best Practices 📦</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Mon, 20 Sep 2021 12:06:46 +0000</pubDate>
       <link>https://notes.khulnasoft.com/28300/npm-dependency-security-best-practices</link>
       <guid>https://notes.khulnasoft.com/28300/npm-dependency-security-best-practices</guid>
@@ -4646,7 +4646,7 @@ You can also remove any dependencies that have an overlapping range, with &lt;co
     </item>
     <item>
       <title>Dashy - A Self-Hosted Home Lab Dashboard 🚀</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Wed, 05 May 2021 10:39:23 +0000</pubDate>
       <link>https://notes.khulnasoft.com/25291/dashy-a-self-hosted-home-lab-dashboard</link>
       <guid>https://notes.khulnasoft.com/25291/dashy-a-self-hosted-home-lab-dashboard</guid>
@@ -4785,7 +4785,7 @@ Then install the dependencies: &lt;code class="prettyprint"&gt;yarn&lt;/code&gt;
     </item>
     <item>
       <title>Using Espanso to boost Efficiency 🚤</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sat, 01 May 2021 19:37:17 +0000</pubDate>
       <link>https://notes.khulnasoft.com/25213/using-espanso-to-boost-efficiency</link>
       <guid>https://notes.khulnasoft.com/25213/using-espanso-to-boost-efficiency</guid>
@@ -5012,7 +5012,7 @@ This works for &lt;code class="prettyprint"&gt;()&lt;/code&gt;, &lt;code class="
 
 &lt;p&gt;If you're interested in doing this, I prepared a &lt;a href="https://listed.to/p/nWcfB31ZTD" rel="noopener nofollow" target="_blank"&gt;list of 4,200 of the most commonly misspelled words&lt;/a&gt; from Wikipedia, presented in AHK format, and wrote a &lt;a href="https://ahk-to-espanso.as93.net/" rel="noopener nofollow" target="_blank"&gt;quick script&lt;/a&gt; to convert it to Espanso YAML.&lt;/p&gt;
 
-&lt;p&gt;I personally just use the 250 words that I most often mistype / spell. The format looks like this (below), and my full script is &lt;a href="https://github.com/khulnasoft-lab/espanso-config/blob/master/alicia-auto-correct.yml" rel="noopener nofollow" target="_blank"&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I personally just use the 250 words that I most often mistype / spell. The format looks like this (below), and my full script is &lt;a href="https://github.com/khulnasoft-lab/espanso-config/blob/master/khulnasoft-auto-correct.yml" rel="noopener nofollow" target="_blank"&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre class="highlight yaml"&gt;&lt;code&gt;&lt;span class="na"&gt;matches&lt;/span&gt;&lt;span class="pi"&gt;:&lt;/span&gt;
 &lt;span class="pi"&gt;-&lt;/span&gt; &lt;span class="na"&gt;trigger&lt;/span&gt;&lt;span class="pi"&gt;:&lt;/span&gt; &lt;span class="s"&gt;acsent&lt;/span&gt;
   &lt;span class="na"&gt;replace&lt;/span&gt;&lt;span class="pi"&gt;:&lt;/span&gt; &lt;span class="s"&gt;accent&lt;/span&gt;
@@ -5092,7 +5092,7 @@ This works for &lt;code class="prettyprint"&gt;()&lt;/code&gt;, &lt;code class="
           &lt;span class="pi"&gt;-&lt;/span&gt; &lt;span class="s1"&gt;'&lt;/span&gt;&lt;span class="s"&gt;https://khulnasoft.com'&lt;/span&gt;
           &lt;span class="pi"&gt;-&lt;/span&gt; &lt;span class="s1"&gt;'&lt;/span&gt;&lt;span class="s"&gt;https://listed.to/@khulnasoft-lab'&lt;/span&gt;
           &lt;span class="pi"&gt;-&lt;/span&gt; &lt;span class="s1"&gt;'&lt;/span&gt;&lt;span class="s"&gt;https://github.com/khulnasoft-lab'&lt;/span&gt;
-          &lt;span class="pi"&gt;-&lt;/span&gt; &lt;span class="s1"&gt;'&lt;/span&gt;&lt;span class="s"&gt;https://stackoverflow.com/users/979052/alicia'&lt;/span&gt;
+          &lt;span class="pi"&gt;-&lt;/span&gt; &lt;span class="s1"&gt;'&lt;/span&gt;&lt;span class="s"&gt;https://stackoverflow.com/users/979052/khulnasoft'&lt;/span&gt;
           &lt;span class="pi"&gt;-&lt;/span&gt; &lt;span class="s1"&gt;'&lt;/span&gt;&lt;span class="s"&gt;https://keybase.io/khulnasoft'&lt;/span&gt;
           &lt;span class="pi"&gt;-&lt;/span&gt; &lt;span class="s1"&gt;'&lt;/span&gt;&lt;span class="s"&gt;https://www.linkedin.com/in/khulnasoft'&lt;/span&gt;
           &lt;span class="pi"&gt;-&lt;/span&gt; &lt;span class="s1"&gt;'&lt;/span&gt;&lt;span class="s"&gt;https://www.reddit.com/user/khulnasoft-lab'&lt;/span&gt;
@@ -5202,7 +5202,7 @@ img.demo {
     </item>
     <item>
       <title>My Life in Months 🗓️</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Tue, 13 Apr 2021 22:14:22 +0000</pubDate>
       <link>https://notes.khulnasoft.com/24701/my-life-in-months</link>
       <guid>https://notes.khulnasoft.com/24701/my-life-in-months</guid>
@@ -5219,7 +5219,7 @@ img{ margin: 0 auto 0.25rem auto; background: #ffffff0a; border: 2px solid #00cc
     </item>
     <item>
       <title>Errors and Solutions 🤬➡️🥳</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Thu, 25 Mar 2021 14:54:43 +0000</pubDate>
       <link>https://notes.khulnasoft.com/24099/errors-and-solutions</link>
       <guid>https://notes.khulnasoft.com/24099/errors-and-solutions</guid>
@@ -5607,7 +5607,7 @@ E.g. &lt;code class="prettyprint"&gt;export CHROME_EXECUTABLE=/usr/bin/brave&lt;
     </item>
     <item>
       <title>Quick How-To Guides 💫</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Wed, 17 Mar 2021 20:05:24 +0000</pubDate>
       <link>https://notes.khulnasoft.com/23844/quick-how-to-guides</link>
       <guid>https://notes.khulnasoft.com/23844/quick-how-to-guides</guid>
@@ -5685,7 +5685,7 @@ blockquote, ul li { font-size: 1.1rem; }
     </item>
     <item>
       <title>SSH Tarpit with EndleSsh 🪤🕳️</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sat, 13 Mar 2021 18:17:30 +0000</pubDate>
       <link>https://notes.khulnasoft.com/23745/ssh-tarpit-with-endlessh</link>
       <guid>https://notes.khulnasoft.com/23745/ssh-tarpit-with-endlessh</guid>
@@ -5709,7 +5709,7 @@ BindFamily 0
     </item>
     <item>
       <title>Pimping up Your DuckDuckGo Search Results 💄</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sat, 20 Feb 2021 20:00:00 +0000</pubDate>
       <link>https://notes.khulnasoft.com/23054/pimping-up-your-duckduckgo-search-results</link>
       <guid>https://notes.khulnasoft.com/23054/pimping-up-your-duckduckgo-search-results</guid>
@@ -5908,7 +5908,7 @@ BindFamily 0
     </item>
     <item>
       <title>My Server Setup ⚙️</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Fri, 12 Feb 2021 20:00:00 +0000</pubDate>
       <link>https://notes.khulnasoft.com/22798/my-server-setup</link>
       <guid>https://notes.khulnasoft.com/22798/my-server-setup</guid>
@@ -6295,7 +6295,7 @@ BindFamily 0
     </item>
     <item>
       <title>Spelling Auto-Correct System ✏️❌</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <link>https://notes.khulnasoft.com/22944/spelling-auto-correct-system</link>
       <guid>https://notes.khulnasoft.com/22944/spelling-auto-correct-system</guid>
@@ -6682,7 +6682,7 @@ If you're just looking for a generic word list, see &lt;a href="https://listed.t
     </item>
     <item>
       <title>Top 25 Raspberry Pi Projects 🥧</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
       <link>https://notes.khulnasoft.com/23239/top-25-raspberry-pi-projects</link>
       <guid>https://notes.khulnasoft.com/23239/top-25-raspberry-pi-projects</guid>
@@ -6799,7 +6799,7 @@ img.banner { width: 100%; max-width: 600px; margin: 0 auto; }
     </item>
     <item>
       <title>My Top 50 Windows Apps 🖥</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Fri, 01 Jan 2021 21:00:00 +0000</pubDate>
       <link>https://notes.khulnasoft.com/21879/my-top-50-windows-apps</link>
       <guid>https://notes.khulnasoft.com/21879/my-top-50-windows-apps</guid>
@@ -7011,7 +7011,7 @@ summary.expandable:hover { background: #00ccb4; color: #060913; font-weight: bol
     </item>
     <item>
       <title>[REFERENCE] Using Variable Fonts in CSS 🔤</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Thu, 10 Dec 2020 18:16:52 +0000</pubDate>
       <link>https://notes.khulnasoft.com/20679/reference-using-variable-fonts-in-css</link>
       <guid>https://notes.khulnasoft.com/20679/reference-using-variable-fonts-in-css</guid>
@@ -7167,7 +7167,7 @@ img.screen-rec { margin: 0.5rem auto; border-radius: 7px; box-shadow: 1px 2px 4p
     </item>
     <item>
       <title>Try. 💯</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sun, 15 Nov 2020 20:00:00 +0000</pubDate>
       <link>https://notes.khulnasoft.com/25192/try</link>
       <guid>https://notes.khulnasoft.com/25192/try</guid>
@@ -7187,7 +7187,7 @@ img.screen-rec { margin: 0.5rem auto; border-radius: 7px; box-shadow: 1px 2px 4p
     </item>
     <item>
       <title>Pi Zero Tor-Routed Access Point 📶</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sat, 17 Oct 2020 15:28:19 +0000</pubDate>
       <link>https://notes.khulnasoft.com/19109/pi-zero-tor-routed-access-point</link>
       <guid>https://notes.khulnasoft.com/19109/pi-zero-tor-routed-access-point</guid>
@@ -7274,7 +7274,7 @@ DNSListenAddress 192.168.42.1
     </item>
     <item>
       <title>[HOW-TO] Mullvad VPN using WireGuard on OPNsense 👁️‍🗨️</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sun, 04 Oct 2020 11:51:12 +0000</pubDate>
       <link>https://notes.khulnasoft.com/18842/how-to-mullvad-vpn-using-wireguard-on-opnsense</link>
       <guid>https://notes.khulnasoft.com/18842/how-to-mullvad-vpn-using-wireguard-on-opnsense</guid>
@@ -7441,7 +7441,7 @@ Here you can also confirm that your IP is not blacklisted, and that there are no
     </item>
     <item>
       <title>Custom Styling for Listed Blog 💅</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Thu, 01 Oct 2020 14:29:13 +0000</pubDate>
       <link>https://notes.khulnasoft.com/18756/custom-styling-for-listed-blog</link>
       <guid>https://notes.khulnasoft.com/18756/custom-styling-for-listed-blog</guid>
@@ -7652,7 +7652,7 @@ div.screenshot-wrapper {
     </item>
     <item>
       <title>Epic Internet Stuff! ✨</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Wed, 30 Sep 2020 11:37:36 +0000</pubDate>
       <link>https://notes.khulnasoft.com/18724/epic-internet-stuff</link>
       <guid>https://notes.khulnasoft.com/18724/epic-internet-stuff</guid>
@@ -7853,14 +7853,14 @@ div.screenshot-wrapper {
 
 &lt;p&gt;This list serves as a boredom destroyer, or something to take your mind of things- I look for sites that are either amazing, genius, funny, random or useful. There's currently over 200 websites, but this list is still very much a work in progress, and I continue to add new stuff 🚧&lt;/p&gt;
 
-&lt;p&gt;I always love discovering new eipc internet stuff, so if you know of something I should check out, drop me a line at &lt;code class="prettyprint"&gt;alicia at omg dot lol&lt;/code&gt; - Thanks for all the messages and suggestions so far!&lt;/p&gt;
+&lt;p&gt;I always love discovering new eipc internet stuff, so if you know of something I should check out, drop me a line at &lt;code class="prettyprint"&gt;khulnasoft at omg dot lol&lt;/code&gt; - Thanks for all the messages and suggestions so far!&lt;/p&gt;
 
 &lt;style&gt;ul li{font-size: 1rem !important;}&lt;/style&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>Fun with Real-Time Data 🌠</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Fri, 25 Sep 2020 17:26:12 +0000</pubDate>
       <link>https://notes.khulnasoft.com/18611/fun-with-real-time-data</link>
       <guid>https://notes.khulnasoft.com/18611/fun-with-real-time-data</guid>
@@ -8017,7 +8017,7 @@ div.screenshot-wrapper {
     </item>
     <item>
       <title>[REFERENCE] InfoSec Abbreviations 🔡</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Tue, 22 Sep 2020 16:36:36 +0000</pubDate>
       <link>https://notes.khulnasoft.com/18536/reference-infosec-abbreviations</link>
       <guid>https://notes.khulnasoft.com/18536/reference-infosec-abbreviations</guid>
@@ -8067,7 +8067,7 @@ div.screenshot-wrapper {
     </item>
     <item>
       <title>[REFERENCE] Wireshark Display Filters 💻</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sun, 20 Sep 2020 14:20:21 +0000</pubDate>
       <link>https://notes.khulnasoft.com/18452/reference-wireshark-display-filters</link>
       <guid>https://notes.khulnasoft.com/18452/reference-wireshark-display-filters</guid>
@@ -8531,7 +8531,7 @@ div.screenshot-wrapper {
     </item>
     <item>
       <title>My Top 50 Android Apps 📱</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Tue, 15 Sep 2020 19:32:33 +0000</pubDate>
       <link>https://notes.khulnasoft.com/18336/my-top-50-android-apps</link>
       <guid>https://notes.khulnasoft.com/18336/my-top-50-android-apps</guid>
@@ -8731,7 +8731,7 @@ Island, ProtonMail, Signal, GitHub, Geometric Weather, Plex, Developer Assistant
     </item>
     <item>
       <title>[QUICK-TIP] Git Submodules</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Wed, 02 Sep 2020 12:35:37 +0000</pubDate>
       <link>https://notes.khulnasoft.com/17996/quick-tip-git-submodules</link>
       <guid>https://notes.khulnasoft.com/17996/quick-tip-git-submodules</guid>
@@ -8777,7 +8777,7 @@ GitHub Modules: &lt;a href="https://github.blog/2016-02-01-working-with-submodul
     </item>
     <item>
       <title>Introduction to Digital Privacy &amp; Security 🔐</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Thu, 13 Aug 2020 16:29:32 +0000</pubDate>
       <link>https://notes.khulnasoft.com/17371/introduction-to-digital-privacy-security</link>
       <guid>https://notes.khulnasoft.com/17371/introduction-to-digital-privacy-security</guid>
@@ -8878,7 +8878,7 @@ GitHub Modules: &lt;a href="https://github.blog/2016-02-01-working-with-submodul
     </item>
     <item>
       <title>[HOW-TO] Remove all node_modules folders 🗑️</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sat, 01 Aug 2020 20:27:57 +0000</pubDate>
       <link>https://notes.khulnasoft.com/16988/how-to-remove-all-node_modules-folders</link>
       <guid>https://notes.khulnasoft.com/16988/how-to-remove-all-node_modules-folders</guid>
@@ -8928,7 +8928,7 @@ GitHub Modules: &lt;a href="https://github.blog/2016-02-01-working-with-submodul
     </item>
     <item>
       <title>keep-mouse-movin.sh 🖱️</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sun, 26 Jul 2020 15:41:12 +0000</pubDate>
       <link>https://notes.khulnasoft.com/16818/keep-mouse-movin-sh</link>
       <guid>https://notes.khulnasoft.com/16818/keep-mouse-movin-sh</guid>
@@ -8956,7 +8956,7 @@ GitHub Modules: &lt;a href="https://github.blog/2016-02-01-working-with-submodul
     </item>
     <item>
       <title>[HOW-TO] Compile &amp; Install Software on Arch 🏗️</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sat, 25 Jul 2020 15:16:53 +0000</pubDate>
       <link>https://notes.khulnasoft.com/16801/how-to-compile-install-software-on-arch</link>
       <guid>https://notes.khulnasoft.com/16801/how-to-compile-install-software-on-arch</guid>
@@ -9025,7 +9025,7 @@ GitHub Modules: &lt;a href="https://github.blog/2016-02-01-working-with-submodul
     </item>
     <item>
       <title>key-mirror.ts 🪞</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Thu, 23 Jul 2020 17:31:03 +0000</pubDate>
       <link>https://notes.khulnasoft.com/16769/key-mirror-ts</link>
       <guid>https://notes.khulnasoft.com/16769/key-mirror-ts</guid>
@@ -9053,7 +9053,7 @@ GitHub Modules: &lt;a href="https://github.blog/2016-02-01-working-with-submodul
     </item>
     <item>
       <title>React Grid System ⚛️</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Wed, 15 Jul 2020 17:01:24 +0000</pubDate>
       <link>https://notes.khulnasoft.com/16564/react-grid-system</link>
       <guid>https://notes.khulnasoft.com/16564/react-grid-system</guid>
@@ -9167,7 +9167,7 @@ GitHub Modules: &lt;a href="https://github.blog/2016-02-01-working-with-submodul
     </item>
     <item>
       <title>Fave YouTube Chanels 📼</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Mon, 13 Jul 2020 14:31:25 +0000</pubDate>
       <link>https://notes.khulnasoft.com/16496/fave-youtube-chanels</link>
       <guid>https://notes.khulnasoft.com/16496/fave-youtube-chanels</guid>
@@ -9548,7 +9548,7 @@ GitHub Modules: &lt;a href="https://github.blog/2016-02-01-working-with-submodul
     </item>
     <item>
       <title>[HOW-TO] Use SSH for Server Authentication 🔓</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Tue, 16 Jun 2020 20:41:29 +0000</pubDate>
       <link>https://notes.khulnasoft.com/15742/how-to-use-ssh-for-server-authentication</link>
       <guid>https://notes.khulnasoft.com/15742/how-to-use-ssh-for-server-authentication</guid>
@@ -9618,7 +9618,7 @@ After generating an SSH key pair, simply run &lt;code class="prettyprint"&gt;ssh
     </item>
     <item>
       <title>[HOW-TO] Operate the SharkJack 🦈</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Wed, 20 May 2020 17:40:55 +0000</pubDate>
       <link>https://notes.khulnasoft.com/14972/how-to-operate-the-sharkjack</link>
       <guid>https://notes.khulnasoft.com/14972/how-to-operate-the-sharkjack</guid>
@@ -9726,7 +9726,7 @@ Red: Setup, Amber: Scanning, Green: Finished&lt;/p&gt;
     </item>
     <item>
       <title>My worry about the future of Keybase 😟</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Sun, 17 May 2020 15:44:20 +0000</pubDate>
       <link>https://notes.khulnasoft.com/14871/my-worry-about-the-future-of-keybase</link>
       <guid>https://notes.khulnasoft.com/14871/my-worry-about-the-future-of-keybase</guid>
@@ -9769,7 +9769,7 @@ I don't think they have any intention of creating a &lt;em&gt;"truly private"&lt
     </item>
     <item>
       <title>Expressing my Gratitude to the Universe 🌌</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Wed, 15 Apr 2020 22:05:05 +0000</pubDate>
       <link>https://notes.khulnasoft.com/18762/expressing-my-gratitude-to-the-universe</link>
       <guid>https://notes.khulnasoft.com/18762/expressing-my-gratitude-to-the-universe</guid>
@@ -9784,7 +9784,7 @@ Thanks!&lt;/p&gt;
     </item>
     <item>
       <title>AHT GPG Public Key 🔑</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Tue, 31 Mar 2020 20:35:37 +0000</pubDate>
       <link>https://notes.khulnasoft.com/13403/aht-gpg-public-key</link>
       <guid>https://notes.khulnasoft.com/13403/aht-gpg-public-key</guid>
@@ -9829,7 +9829,7 @@ Pc0jCYP8i2YZQ3IdN6+Py2PXnhS6+OZukVy3GSib6dmdk1XhaUCcE8xbht92GiK0
     </item>
     <item>
       <title>[HOW-TO] Enable/ Disable Pi-Hole from CLI 🥧</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Tue, 31 Mar 2020 19:58:32 +0000</pubDate>
       <link>https://notes.khulnasoft.com/13402/how-to-enable-disable-pi-hole-from-cli</link>
       <guid>https://notes.khulnasoft.com/13402/how-to-enable-disable-pi-hole-from-cli</guid>
@@ -9853,7 +9853,7 @@ Docs: &lt;a href="https://docs.pi-hole.net/core/pihole-command" rel="noopener no
     </item>
     <item>
       <title>Hello World 👋</title>
-      <author>Alicia's Notes 🚀</author>
+      <author>KhulnaSoft's Notes 🚀</author>
       <pubDate>Wed, 18 Mar 2020 18:41:16 +0000</pubDate>
       <link>https://notes.khulnasoft.com/13001/hello-world</link>
       <guid>https://notes.khulnasoft.com/13001/hello-world</guid>

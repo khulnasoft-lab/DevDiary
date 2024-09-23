@@ -47,7 +47,7 @@ Crafted with SvelteKit + TypeScript- prioritising SEO, performance, accessibilit
 
 <sub>A tutorial, for how to build something similar is available on **[DEV.to](https://dev.to/khulnasoft-lab/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)**</sub>
 
-<sup>A mirror of this repository is available at **[codeberg.org/alicia/devdiary](https://codeberg.org/alicia/devdiary)**</sup>
+<sup>A mirror of this repository is available at **[codeberg.org/khulnasoft/devdiary](https://codeberg.org/khulnasoft/devdiary)**</sup>
 
 
 ### Pages
@@ -431,7 +431,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
         <a href="https://github.com/liss-bot">
             <img src="https://avatars.githubusercontent.com/u/87835202?v=4" width="80;" alt="liss-bot"/>
             <br />
-            <sub><b>Alicia Bot</b></sub>
+            <sub><b>KhulnaSoft Bot</b></sub>
         </a>
     </td>
     <td align="center">
@@ -472,7 +472,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
 
 ```
 The MIT License (MIT)
-Copyright (c) Dev Diary <alicia@omg.com>
+Copyright (c) Dev Diary <khulnasoft@omg.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
