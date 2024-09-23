@@ -18,6 +18,6 @@ jobs:
           token: ${{ secrets.ORG_REPO_TOKEN || secrets.GITHUB_TOKEN }}
           fetch-depth: 0
       - name: Rebase
-        uses: cirrus-actions/rebase@1.4
+        uses: cirrus-actions/rebase@1.8
         env:
           GITHUB_TOKEN: ${{ secrets.ORG_REPO_TOKEN || secrets.GITHUB_TOKEN }}
