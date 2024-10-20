@@ -256,17 +256,17 @@ To get started, fork the repo, make your changes, add, commit and push the code,
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/FortiShield">
-            <img src="https://avatars.githubusercontent.com/u/161459699?v=4" width="80;" alt="FortiShield"/>
-            <br />
-            <sub><b>Fortishield</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/liss-bot">
             <img src="https://avatars.githubusercontent.com/u/87835202?v=4" width="80;" alt="liss-bot"/>
             <br />
             <sub><b>Alicia Bot</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/FortiShield">
+            <img src="https://avatars.githubusercontent.com/u/161459699?v=4" width="80;" alt="FortiShield"/>
+            <br />
+            <sub><b>Fortishield</b></sub>
         </a>
     </td>
     <td align="center">
